@@ -42,7 +42,7 @@ npm install
 
 ### 3. Set up environment variables
 
-Create a `.env.local` file in the root directory:
+Create a `.env` file in the root directory:
 
 ```env
 # Database
